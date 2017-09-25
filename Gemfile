@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'react_on_rails', '~> 9.0.1'
+gem 'yarn'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
